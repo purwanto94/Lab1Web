@@ -1,6 +1,10 @@
 # Lab1Web
 Praktek tag HTML dasar
 
+Nama  : Purwanto
+NIM   : 311910173
+Kelas : TI.19.B2
+
 Membuat title website dengan menggunakan tag title pada head.
 Tampilan website masih kosong, hanya ada title saja pada tab browser.
 ![title](https://user-images.githubusercontent.com/50513551/112836567-f991be00-90c4-11eb-913d-71f628030b4a.png)
